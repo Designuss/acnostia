@@ -1,0 +1,16 @@
+@media screen and (max-width: 1920px){
+	h1{
+		padding: 0 2% 0 2%;
+	}
+	.services-blocks>p{
+		font-size: 24px;
+	}
+}
+@media screen and (min-width: 3840px){
+	.colums{
+		width: 55%;
+	}
+	.gallery{
+		width: 65%;
+	}
+}
